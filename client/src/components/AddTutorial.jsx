@@ -25,11 +25,11 @@ const AddTutorial = ({ getTutorials }) => {
 
   return (
     <div className="container text-center mt-4">
-      <h1 className="display-6 text-danger">Add Your Tutorial</h1>
+      <h1 className="display-6 text-danger">YOUR TODO'S</h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
           <label htmlFor="title" className="form-label">
-            Title
+            TITLE
           </label>
           <input
             type="text"
@@ -43,7 +43,7 @@ const AddTutorial = ({ getTutorials }) => {
         </div>
         <div className="mb-3">
           <label htmlFor="desc" className="form-label">
-            Description
+            DESCRIPTION
           </label>
           <input
             type="text"

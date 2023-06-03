@@ -44,7 +44,7 @@ INSTALLED_APPS = [
 
     #3rd Party Apps;
     'rest_framework',
-    'corseheaders',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
@@ -136,6 +136,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #     "http://127.0.0.1:3000",
 # ]
 
+# Accessible from all urls
 CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOW_METHODS = (
