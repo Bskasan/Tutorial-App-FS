@@ -85,3 +85,4 @@ $ git clone https://github.com/your-user-name/your-project-name
 --> Created ModelView ( Overrides )
 --> Local urls.py for tutorial
 --> Used DefaultRouter
+--> Python Anywhere for deploying Django App
