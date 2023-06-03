@@ -75,3 +75,10 @@ $ git clone https://github.com/your-user-name/your-project-name
 // Run the app
     $ npm or yarn start
 ```
+
+-----------------------------------------------------
+--> Model Created
+--> Made Admin Registration ( Import your model !)
+--> Made migrations and migrate
+--> Created Superuser
+--> Created Serializer ( Model Serializer)
