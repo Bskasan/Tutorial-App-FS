@@ -82,3 +82,6 @@ $ git clone https://github.com/your-user-name/your-project-name
 --> Made migrations and migrate
 --> Created Superuser
 --> Created Serializer ( Model Serializer)
+--> Created ModelView ( Overrides )
+--> Local urls.py for tutorial
+--> Used DefaultRouter
